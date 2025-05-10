@@ -1,2 +1,2 @@
-# mbot2_map
-create map using mbot2
+start mbot2
+I want to create map using mbot2.
